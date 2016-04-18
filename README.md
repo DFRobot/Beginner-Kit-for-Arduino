@@ -8,7 +8,8 @@ Contains the Following:
 * Sample code
 * Sample code.zip
 
-Lessons Include:
+Lessons Include: <br>
+
 1 Blinking a LED   <br>
 2 SOS Beacon  <br>
 3 Traffic Light  <br>
