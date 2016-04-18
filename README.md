@@ -10,15 +10,15 @@ Contains the Following:
 
 Lessons Include: <br>
 
-1 Blinking a LED   <br>
-2 SOS Beacon  <br>
-3 Traffic Light  <br>
-4 Fading Light  <br>
-5 RGB LED  <br>
-6 Alarm  <br>
-7 Temperature Alarm  <br>
-8 Detecting vibration  <br>
-9 Ambient Light controlled LED  <br>
+01 Blinking a LED   <br>
+02 SOS Beacon  <br>
+03 Traffic Light  <br>
+04 Fading Light  <br>
+05 RGB LED  <br>
+06 Alarm  <br>
+07 Temperature Alarm  <br>
+08 Detecting vibration  <br>
+09 Ambient Light controlled LED  <br>
 10 Moving a Servo  <br>
 11 Interact with Servo  <br>
 12 RGB Light Dimmer  <br>
