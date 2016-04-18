@@ -6,7 +6,7 @@ Contains the Following:
 
 * Beginner Kit Tutorial.pdf
 * Sample code
-* Sample code.zip
+* Sample code.rar
 
 Lessons Include: <br>
 
